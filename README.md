@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack django developer.<br>i have done paid projects on full stack website and erp.<br>i am skilled in reactjs, artificial intelligence and as a trainer.<br>currently i am looking for a role of django developer
+I am a full stack Django Developer.<br>I have done paid projects on Full stack website and ERP.<br>I am skilled in ReactJs, artificial intelligence and as a trainer.<br>Currently i am looking for a role of Django Developer
 
 
 ## 🌐 Socials:
